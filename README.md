@@ -1,3 +1,7 @@
+#This project based on React.js and JavaScript
+It is a web-based platform where a user find a vehicle that meets their
+needs and they book it and pay for the chosen rental period
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
